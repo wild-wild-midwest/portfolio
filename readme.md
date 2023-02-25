@@ -1,6 +1,4 @@
-
-## About Me
-Hi, I'm Joel.
+# Hi, I'm Joel.
 
 Here are a few data points:
 - Project Manager by trade, I've worked for companies like Boeing, Ford, Fiat Chrysler, MSUFCU, Payanywhere.com, HHIT, and Rocket Mortgage
