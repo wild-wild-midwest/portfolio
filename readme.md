@@ -1,7 +1,4 @@
 
-# README
-Leadership README for Joel Mollon
-
 ## About Me
 Hi, I'm Joel.
 
@@ -46,5 +43,6 @@ A sense of purpose that we are working on something that MATTERS. Whatever the p
 
 I also believe in working to live and not living to work, so you won't see me working off hours - unless something goes wrong, we are doing a deployment, or I'm at my in-laws and need an excuse to get out of a conversation. I don't expect you to work off hours, unless similar aforementioned circumstances arise. If I do need you, I will proactively reach out to you.
 
-### Building Cool Shit
-This is the best part of the job and what really motivates me. Making things that astound our clients just feels good and creates a sense of pride. The more we do this, the more satisfaction I personally derive. So this is what I'm going to push you to do. Make awesome stuff.
+### Building Cool Stuff
+This is the best part of the job and what really motivates me. Making things that astound clients just feels good and creates a sense of pride. The more we do this, the more satisfaction I personally derive. So this is what I'm going to push myself and everyone around me to do. Make awesome stuff.
+
