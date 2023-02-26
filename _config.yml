@@ -2,7 +2,7 @@ remote_theme: wild-wild-midwest/slate
 plugins:
 - jekyll-remote-theme
 
-title: "Joel Mollon's Portfolio"
+title: "Joel Mollon"
 description: "Learn how I can help you on your next initiative"
 
 show_downloads: true
