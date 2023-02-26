@@ -4,3 +4,5 @@ plugins:
 
 title: "Joel Mollon's Portfolio"
 description: "Learn how I can help you on your next initiative"
+
+show_downloads: true
