@@ -1,4 +1,4 @@
-remote_theme: wild-wild-midwest/cayman
+remote_theme: wild-wild-midwest/slate
 plugins:
 - jekyll-remote-theme
 
