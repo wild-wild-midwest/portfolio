@@ -1,4 +1,4 @@
-remote_theme: wild-wild-midwest/slate
+remote_theme: wild-wild-midwest/hyde
 plugins:
 - jekyll-remote-theme
 
