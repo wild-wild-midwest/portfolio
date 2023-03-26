@@ -1,6 +1,24 @@
-remote_theme: wild-wild-midwest/hyde
-plugins:
-- jekyll-remote-theme
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-title: "Joel M"
-description: ""
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            'Joel Mollon'
+tagline:          'Project Manager, Engineering Leader, Thing Doer'
+description:      'Hi, my name is Joel. I am a professional person who gets stuff done.'
+url:              https://joelm.dev
+baseurl:          /
+
+author:
+  name:           'Joel Mollon'
+  url:            https://www.linkedin.com/in/joel-mollon/
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
